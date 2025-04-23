@@ -1,0 +1,43 @@
+# Báo cáo bài tập 1 - Tải và giải nén dữ liệu
+
+### Thực hiện bởi: Lê Đức Hòa
+### Mã sinh viên: 23632141
+
+## Mục lục
+1. [Giới thiệu](#giới-thiệu)
+2. [Mục tiêu](#mục-tiêu)
+3. [Quá trình thực hiện](#quá-trình-thực-hiện)
+4. [Kết quả](#kết-quả)
+5. [Kết luận](#kết-luận)
+
+## Giới thiệu
+Bài tập này yêu cầu tải về và giải nén các file dữ liệu zip từ các URL được cung cấp. Các file zip chứa dữ liệu dưới dạng CSV và sau khi giải nén, dữ liệu sẽ được lưu trong thư mục `downloads`.
+
+## Mục tiêu
+- Tải về 7 file zip từ các URL.
+- Giải nén các file zip và lưu dữ liệu vào thư mục `downloads`.
+- Xóa các file zip sau khi giải nén.
+
+## Quá trình thực hiện
+1. **Tạo thư mục `downloads`**: Đầu tiên, tôi tạo thư mục `downloads` nếu nó chưa tồn tại.
+2. **Tải file**: Sử dụng thư viện `requests` để tải các file zip từ các URL được cung cấp.
+3. **Giải nén file**: Sau khi tải xong, tôi giải nén các file zip vào thư mục `downloads` và sau đó xóa file zip.
+4. **Lỗi và giải pháp**: Trong quá trình tải file, có một vài file không tồn tại, tôi đã xử lý lỗi và tiếp tục quá trình.
+
+## Kết quả
+Sau khi thực hiện xong các bước, các file CSV đã được tải về và giải nén thành công vào thư mục `downloads`. Các file zip đã được xóa sau khi giải nén xong.
+
+![alt text](image.png)
+
+- Các file CSV bao gồm:
+  - Divvy_Trips_2018_Q4.csv
+  - Divvy_Trips_2019_Q1.csv
+  - Divvy_Trips_2019_Q2.csv
+  - Divvy_Trips_2019_Q3.csv
+  - Divvy_Trips_2019_Q4.csv
+  - Divvy_Trips_2020_Q1.csv
+  - Divvy_Trips_2220_Q1.csv
+
+## Kết luận
+Bài tập giúp tôi hiểu thêm về việc tải file từ các nguồn HTTP và xử lý dữ liệu từ các file nén. Tôi cũng đã học được cách giải nén file zip và làm việc với thư mục trong Python.
+như này dc ko
