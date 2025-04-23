@@ -27,7 +27,8 @@ Bài tập này yêu cầu tải về và giải nén các file dữ liệu zip 
 ## Kết quả
 Sau khi thực hiện xong các bước, các file CSV đã được tải về và giải nén thành công vào thư mục `downloads`. Các file zip đã được xóa sau khi giải nén xong.
 
-![alt text](image.png)
+![Uploading image.png…]()
+
 
 - Các file CSV bao gồm:
   - Divvy_Trips_2018_Q4.csv
