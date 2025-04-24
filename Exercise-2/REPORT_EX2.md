@@ -1,7 +1,7 @@
-#Báo cáo Bài tập 2 - Web Scraping và Phân tích Dữ liệu Khí Hậu
+# Báo cáo Bài tập 2 - Web Scraping và Phân tích Dữ liệu Khí Hậu
 
-###Thực hiện bởi: Lê Đức Hòa  
-###Mã sinh viên: 23632141  
+### Thực hiện bởi: Lê Đức Hòa  
+### Mã sinh viên: 23632141  
 
 ---
 
@@ -51,12 +51,9 @@ Bài tập này yêu cầu sinh viên xây dựng một chương trình Python c
 
 ## 4. Kết quả
 
-### ✅ File được tìm thấy:
-- Tên file: `725300-94846-2021.csv` *(dựa trên thời gian sửa đổi `2024-01-19 10:27`)*
-
 ### 📈 Phân tích dữ liệu:
-- Nhiệt độ cao nhất (`HourlyDryBulbTemperature`) tìm được: **107.0°F**
-- Số dòng có nhiệt độ này: `1`
+- Nhiệt độ cao nhất (`HourlyDryBulbTemperature`) tìm được: **54.0°F**
 
 ### 🖥️ Ví dụ kết quả in ra:
+![Screenshot 2025-04-24 090628](https://github.com/user-attachments/assets/751ecc4b-d2a2-4a95-a5a8-c3a738c348f2)
 
