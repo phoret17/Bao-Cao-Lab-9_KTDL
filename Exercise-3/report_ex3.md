@@ -49,6 +49,7 @@ Bài tập yêu cầu sinh viên xây dựng một chương trình Python sử d
 ---
 
 ## Kết quả
-
-- Tải thành công file `.gz`: `crawl-data/CC-MAIN-2022-05/wet.paths.gz`.
 - Đã trích xuất dòng đầu tiên thành công:
+![z6538254500934_f30e975ab82174ffb6fc41cc13f43723](https://github.com/user-attachments/assets/b2f73cb5-158b-4e03-898d-c1aea265f6e6)
+
+
