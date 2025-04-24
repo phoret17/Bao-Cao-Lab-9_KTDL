@@ -36,4 +36,3 @@ Sau khi thực hiện xong các bước, các file CSV đã được tải về 
 
 ## Kết luận
 Bài tập giúp tôi hiểu thêm về việc tải file từ các nguồn HTTP và xử lý dữ liệu từ các file nén. Tôi cũng đã học được cách giải nén file zip và làm việc với thư mục trong Python.
-như này dc ko
