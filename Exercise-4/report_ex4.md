@@ -49,14 +49,13 @@ Bài tập này yêu cầu sinh viên xây dựng một chương trình Python c
 
 ## Kết quả
 
-### Danh sách file JSON đã xử lý:
-- `data/region1/data_1.json`
-- `data/region2/city/data_2.json`
-- `data/data_3.json`
+- Đã chuyển đổi thành công: data/file-1.json → data/file-1.csv
+- Đã chuyển đổi thành công: data/enough_already/file-4.json → data/enough_already/file-4.csv
+- Đã chuyển đổi thành công: data/other_folder/file-3.json → data/other_folder/file-3.csv
+- Đã chuyển đổi thành công: data/some_folder/other_folder/file-2.json → data/some_folder/other_folder/file-2.csv
 
-### Kết quả chuyển đổi:
-- Tạo ra 3 file CSV tương ứng.
-- Dữ liệu được làm phẳng đầy đủ, không bị lỗi định dạng.
+![Screenshot 2025-04-24 151913](https://github.com/user-attachments/assets/d663daa7-4d39-4ad9-9544-b3510efd7bd2)
+
+![Screenshot 2025-04-24 152009](https://github.com/user-attachments/assets/0af8fe16-d919-49c8-a039-a9fb4d5e6d20)
 
 ---
-
