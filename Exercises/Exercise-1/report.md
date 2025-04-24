@@ -21,7 +21,9 @@ Bài tập này yêu cầu tải về và giải nén các file dữ liệu zip 
 ## Kết quả
 Sau khi thực hiện xong các bước, các file CSV đã được tải về và giải nén thành công vào thư mục `downloads`. Các file zip đã được xóa sau khi giải nén xong.
 
-  
+![z6535096408336_c14ec573506cebd0181d1fda559a8c76](https://github.com/user-attachments/assets/d2e4680d-e5a2-4225-96fc-65a8eceee17c)
+
+
 ![z6535143294280_d1b7628184edd01defb237fa286ec134](https://github.com/user-attachments/assets/24acb830-c905-4c52-964d-4e7fc0a329f8)
 
 
@@ -34,5 +36,3 @@ Sau khi thực hiện xong các bước, các file CSV đã được tải về 
   - Divvy_Trips_2020_Q1.csv
   - Divvy_Trips_2220_Q1.csv
 
-## Kết luận
-Bài tập giúp tôi hiểu thêm về việc tải file từ các nguồn HTTP và xử lý dữ liệu từ các file nén. Tôi cũng đã học được cách giải nén file zip và làm việc với thư mục trong Python.
