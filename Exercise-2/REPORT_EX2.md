@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Giới thiệu
+## Giới thiệu
 
 Bài tập này yêu cầu sinh viên xây dựng một chương trình Python có khả năng:
 
@@ -16,7 +16,7 @@ Bài tập này yêu cầu sinh viên xây dựng một chương trình Python c
 
 ---
 
-## 2. Mục tiêu
+## Mục tiêu
 
 - Truy cập:  
   `https://www.ncei.noaa.gov/data/local-climatological-data/access/2021/`
@@ -30,18 +30,18 @@ Bài tập này yêu cầu sinh viên xây dựng một chương trình Python c
 
 ---
 
-## 3. Quá trình thực hiện
+## Quá trình thực hiện
 
-### 3.1 Web Scraping
+### 1 Web Scraping
 - Dùng `requests.get()` để lấy HTML trang web.
 - Dùng `BeautifulSoup` để tìm bảng chứa danh sách file.
 - Duyệt qua các dòng, so sánh cột thời gian với giá trị yêu cầu.
 
-### 3.2 Tải và Lưu file
+### 2 Tải và Lưu file
 - Từ tên file tìm được, xây dựng URL đầy đủ.
 - Tải file `.csv` bằng `requests`, lưu vào thư mục hiện tại.
 
-### 3.3 Phân tích bằng Pandas
+### 3 Phân tích bằng Pandas
 - Đọc file `.csv` bằng `pd.read_csv()`.
 - Xử lý các cột cần thiết.
 - Tìm nhiệt độ cao nhất trong cột `HourlyDryBulbTemperature`.
@@ -49,11 +49,11 @@ Bài tập này yêu cầu sinh viên xây dựng một chương trình Python c
 
 ---
 
-## 4. Kết quả
+## Kết quả
 
-### 📈 Phân tích dữ liệu:
-- Nhiệt độ cao nhất (`HourlyDryBulbTemperature`) tìm được: **54.0°F**
+### Phân tích dữ liệu:
+- Nhiệt độ cao nhất: 54.0°F vào lúc 2021-09-22T12:20:00
 
-### 🖥️ Ví dụ kết quả in ra:
+### Kết quả in ra:
 ![Screenshot 2025-04-24 090628](https://github.com/user-attachments/assets/751ecc4b-d2a2-4a95-a5a8-c3a738c348f2)
 
