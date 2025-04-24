@@ -60,16 +60,3 @@ Bài tập này yêu cầu sinh viên xây dựng một chương trình Python c
 
 ---
 
-## Ghi chú
-
-- Đảm bảo đã cài các thư viện cần thiết: `glob`, `json`, `csv`, `os`.
-- Nếu cần xử lý dữ liệu phức tạp, có thể dùng thêm thư viện `pandas` hoặc `flatten_json`.
-
----
-
-## Hướng dẫn chạy
-
-```bash
-cd Exercises/Exercise-4
-docker build --tag=exercise-4 .
-docker-compose up run
