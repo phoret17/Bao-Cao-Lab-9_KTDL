@@ -1,7 +1,5 @@
 # Báo cáo Bài tập 3 - Tải và Xử lý File `.gz` từ AWS S3 bằng Boto3  
 
-### Thực hiện bởi: Nguyễn Minh Hoàng  
-### Mã sinh viên: 23635051 
 
 ---
 
