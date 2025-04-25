@@ -1,7 +1,5 @@
 # Báo cáo Bài tập 2 - Web Scraping và Phân tích Dữ liệu Khí Hậu
 
-### Thực hiện bởi: Nguyễn Minh Hoàng
-### Mã sinh viên: 23635051
 
 ---
 
