@@ -1,0 +1,29 @@
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+lxml>=4.9.3
+
+# Xử lý dữ liệu
+pandas>=2.2.2
+numpy>=1.26.4
+tqdm>=4.66.2
+
+# AWS - S3
+boto3>=1.34.55
+botocore>=1.34.55
+
+# Kết nối CSDL PostgreSQL
+psycopg2-binary>=2.9.9
+SQLAlchemy>=2.0.29
+
+# Trực quan hóa (nếu cần vẽ biểu đồ)
+matplotlib>=3.8.4
+seaborn>=0.13.2
+
+# Dùng cho pipeline / automation nâng cao
+apache-airflow>=2.9.1
+python-dotenv>=1.0.1
+
+# Giải nén file .gz, .zip nếu có
+gzip
+zipfile36
