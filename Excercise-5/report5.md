@@ -1,7 +1,5 @@
 # Báo cáo Bài tập 5 - Mô hình hóa Dữ liệu với Postgres và Python
 
-### Thực hiện bởi: Nguyễn Minh Hoàng  
-### Mã sinh viên: 23635051 
 
 ---
 
