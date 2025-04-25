@@ -1,7 +1,5 @@
 # Báo cáo Bài tập 4 - Chuyển đổi JSON sang CSV trong Thư mục Lồng Nhiều Cấp
 
-### Thực hiện bởi: Nguyễn Minh Hoàng
-### Mã sinh viên: 23635051
 
 ---
 
