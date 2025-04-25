@@ -1,7 +1,6 @@
 # Báo cáo bài tập 1 - Tải và giải nén dữ liệu
 
-### Thực hiện bởi: Nguyễn Minh Hoàng
-### Mã sinh viên: 23635051
+
 
 ## Giới thiệu
 Bài tập này yêu cầu tải về và giải nén các file dữ liệu zip từ các URL được cung cấp. Các file zip chứa dữ liệu dưới dạng CSV và sau khi giải nén, dữ liệu sẽ được lưu trong thư mục `downloads`.
